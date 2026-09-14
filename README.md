@@ -12,8 +12,10 @@ To build an interactive dashboard that visualizes:
 - Total quantity sold by Product
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](./dashboard.png)
-> Screenshot from my Power BI / Excel Dashboard
+![Dashboard Screenshot](.<img width="1280" height="720" alt="photo_6143206773217759820_y" src="https://github.com/user-attachments/assets/b33cdd95-ada9-444b-bbf7-c247809d2428" />
+),(<img width="1280" height="720" alt="photo_6143206773217759821_y" src="https://github.com/user-attachments/assets/b5e5ade7-c313-4a9a-95e7-37424689a2a7" />
+
+
 
 ## 📈 Visuals Used
 
